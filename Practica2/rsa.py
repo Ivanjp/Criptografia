@@ -1,7 +1,7 @@
 import random
 import math
 from sympy import *
-from fractions import Fraction
+
 # UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO FACULTAD DE CIENCIAS UNAM
 # CRIPTOGRAFIA 2021-1
 # ALUMNOS: Jorge Ivan Perez Perez 314211349
